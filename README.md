@@ -28,3 +28,15 @@
 ## Results
 
 - **Test accuracy:** ~92.5%
+
+## Usage
+
+- Run the console application.
+- Enter a sentence when prompted.
+- The model will analyze the sentence and output:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predicted sentiment (**Positive** or **Negative**)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Probability of the predicted sentiment
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Positive and negative probability scores
